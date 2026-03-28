@@ -1,4 +1,4 @@
-# Chinese-word-segmentation
+# Chinese-Word-Segmentation
 实时中文分词统计Demo
 
 请查看文件夹中的“说明”图片。
